@@ -1,6 +1,6 @@
 Este foi o meu primerio codigo em php, aprendemos a linkar o back com o front end
 
-Rail Viel 
+Carlos_Buttke_2026
 
 a ideia da atividade proposta na aula foi aprender e construir uma relação de entre um site e o banco de dados utilizando o XAMMP e linguagem utilizada foi o PHP .
 além disso  fomos estimulados a também a praticarmos boas praticas relacionadas a organização de arquivos .
